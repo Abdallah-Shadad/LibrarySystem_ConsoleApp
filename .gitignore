@@ -1,0 +1,20 @@
+# Visual Studio temporary files and build results
+bin/
+obj/
+.vs/
+*.suo
+*.user
+*.sln.docstates
+*.csproj.user
+
+# Build output
+[Dd]ebug/
+[Rr]elease/
+
+# NuGet Packages
+*.nupkg
+packages/
+
+# Other temporary files
+*.cache
+*.log
