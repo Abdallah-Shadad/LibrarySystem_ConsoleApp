@@ -26,7 +26,7 @@ Git installed (included with Visual Studio 2022)
 
 Installation
 
-Clone the repository:git clone https://github.com/Abdallah-Shadad/CALibraryManagementSystem.git
+Clone the repository:git clone https://github.com/Abdallah-Shadad/LibrarySystem_ConsoleApp.git
 
 
 Open the solution file (CALibraryManagementSystem.sln) in Visual Studio 2022.
